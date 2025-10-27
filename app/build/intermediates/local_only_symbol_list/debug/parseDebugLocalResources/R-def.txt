@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+id btnGenerate
+id btnStop
+id cbLeet
+id cbReverse
+id container
+id etMaxComb
+id etMaxLines
+id etSymbols
+id etTokens
+id etYears
+id progressBar
+id scroll
+id tvFilePath
+id tvHeader
+id tvStatus
+layout activity_main
+mipmap ic_launcher
+string app_name
+string apply_leetspeak
+string generate
+string hint_max_comb
+string hint_max_lines
+string hint_symbols
+string hint_tokens
+string hint_years
+string include_reverse
+string output
+string status_idle
+string stop
+string title
+style Theme.WordlistGen

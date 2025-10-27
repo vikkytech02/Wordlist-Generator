@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.wordlistgen.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.wordlistgen.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.wordlistgen.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.wordlistgen.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.wordlistgen.app-debug-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.wordlistgen.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    }
+]

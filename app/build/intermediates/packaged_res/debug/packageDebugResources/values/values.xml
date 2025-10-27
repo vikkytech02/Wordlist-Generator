@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wordlist Generator</string>
+    <string name="apply_leetspeak">Apply leetspeak</string>
+    <string name="generate">Generate</string>
+    <string name="hint_max_comb">Max Comb</string>
+    <string name="hint_max_lines">Max Lines</string>
+    <string name="hint_symbols">Enter symbols (e.g. !,@,#,$)</string>
+    <string name="hint_tokens">Enter tokens (comma-separated, e.g. admin,user,root)</string>
+    <string name="hint_years">Enter years (e.g. 2020,2021)</string>
+    <string name="include_reverse">Include reverse</string>
+    <string name="output">Output path will appear here</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="stop">Stop</string>
+    <string name="title">🔤 Custom Wordlist Generator</string>
+    <style name="Theme.WordlistGen" parent="Theme.AppCompat.DayNight.DarkActionBar"/>
+</resources>
