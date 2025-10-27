@@ -1,0 +1,69 @@
+# =========================
+# Android / Java / Gradle
+# =========================
+
+# Gradle files
+.gradle/
+**/build/
+**/out/
+
+# Local configuration file (SDK path, signing keys, etc.)
+local.properties
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Gradle Wrapper logs
+.gradle/
+.gradle_cache/
+.gradle_local/
+.gradle_user_home/
+
+# Generated files
+captures/
+output.json
+navigation.json
+
+# Android specific
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Keystore files (security!)
+*.jks
+*.keystore
+
+# Miscellaneous
+*.swp
+*.tmp
+*.bak
+
+# =========================
+# Node / React Native (if ever added)
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# =========================
+# Environment and build cache
+# =========================
+.env
+.env.*
+.cache/
